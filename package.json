@@ -3,12 +3,17 @@
   "displayName": "Vuex Entity Finder",
   "description": "Jumps to the vuex file contained within a module path",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.95.0"
   },
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShetlandJ/vuex-module-locator.git"
+  },
   "activationEvents": [
     "onLanguage:javascript",
     "onLanguage:typescript",
